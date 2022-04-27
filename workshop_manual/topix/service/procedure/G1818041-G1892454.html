@@ -1,0 +1,716 @@
+<!DOCTYPE html><html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="Word.Document" name="ProgId"><link type="text/css" href="..\..\..\topix\stuff\font-awesome-e21164449ea44c5024f0d5270f2e610b3a92ee9e.css" rel="stylesheet" /><link type="text/css" href="" rel="stylesheet" /><script type="text/javascript" src="..\..\..\topix\stuff\jquery.js"></script><script type="text/javascript" src="..\..\..\topix\stuff\view.js"></script><script type="text/javascript" src="..\..\..\topix\stuff\pagmcp.js"></script><link href="..\..\..\topix\stuff\jaguar-wsm-style.css" rel="stylesheet">
+<link href="..\..\..\topix/odyssey/style/webresources/img/favicons/favicon.ico" rel="shortcut icon">
+<link href="..\..\..\topix/odyssey/style/webresources/img/favicons/apple-touch-icon-57x57.png" sizes="57x57" rel="apple-touch-icon">
+<link href="..\..\..\topix/odyssey/style/webresources/img/favicons/apple-touch-icon-114x114.png" sizes="114x114" rel="apple-touch-icon">
+<link href="..\..\..\topix/odyssey/style/webresources/img/favicons/apple-touch-icon-72x72.png" sizes="72x72" rel="apple-touch-icon">
+<link href="..\..\..\topix/odyssey/style/webresources/img/favicons/apple-touch-icon-144x144.png" sizes="144x144" rel="apple-touch-icon">
+<link href="..\..\..\topix/odyssey/style/webresources/img/favicons/apple-touch-icon-60x60.png" sizes="60x60" rel="apple-touch-icon">
+<link href="..\..\..\topix/odyssey/style/webresources/img/favicons/apple-touch-icon-120x120.png" sizes="120x120" rel="apple-touch-icon">
+<link href="..\..\..\topix/odyssey/style/webresources/img/favicons/apple-touch-icon-76x76.png" sizes="76x76" rel="apple-touch-icon">
+<link href="..\..\..\topix/odyssey/webresources/img/favicons/apple-touch-icon-152x152.png" sizes="152x152" rel="apple-touch-icon">
+<link sizes="196x196" href="..\..\..\topix/odyssey/style/webresources/img/favicons/favicon-192x192.png" type="image/png" rel="icon">
+<link sizes="160x160" href="..\..\..\topix/odyssey/style/webresources/img/favicons/favicon-160x160.png" type="image/png" rel="icon">
+<link sizes="96x96" href="..\..\..\topix/odyssey/style/webresources/img/favicons/favicon-96x96.png" type="image/png" rel="icon">
+<link sizes="32x32" href="..\..\..\topix/odyssey/style/webresources/img/favicons/favicon-32x32.png" type="image/png" rel="icon">
+<link sizes="16x16" href="..\..\..\topix/odyssey/style/webresources/img/favicons/favicon-16x16.png" type="image/png" rel="icon">
+<meta content="#ffffff" name="msapplication-TileColor">
+<meta content="..\..\..\topix/odyssey/style/webresources/img/favicons/mstile-70x70.png" name="msapplication-square70x70logo">
+<meta content="..\..\..\topix/odyssey/style/webresources/img/favicons/mstile-150x150.png" name="msapplication-square150x150logo">
+<meta content="..\..\..\topix/odyssey/style/webresources/img/favicons/mstile-310x310.png" name="msapplication-square310x310logo">
+<meta content="..\..\..\topix/odyssey/style/webresources/img/favicons/mstile-310x150.png" name="msapplication-wide310x150logo">
+<link href="..\..\..\topix\stuff\wsm-directives.css" type="text/css" rel="stylesheet">
+<script>
+                    var vprUrl = "https://cognitran-vpr-prod.cognitran-cloud.com";
+                    var barcodeCantBeDecodedMsg = "Barcode cannot be decoded";
+                </script>
+<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body>
+<script src="..\..\..\topix\stuff\jquery.magnify.js" type="text/javascript"></script><script src="..\..\..\topix\stuff\scripts.js" type="text/javascript"></script><script src="..\..\..\topix\stuff\prefixfree.js" type="text/javascript"></script><script src="..\..\..\topix\stuff\wsmsteps.js" type="text/javascript"></script>
+<div class="container">
+<a name="G1818041"></a>
+<div class="grid">
+<div class="grid__item one-whole">
+<h4 id="dateReceived">Published: 08-Oct-2018</h4>
+<h4>2017.0 XE (X760), 418-00</h4>
+<h1>Module Communications Network</h1>
+</div>
+</div>
+<div class="grid">
+<div class="grid__item one-whole">
+<div class="red-heading">DESCRIPTION AND OPERATION</div>
+<div class="red-hr"></div>
+<div class="content-wrapper-grey">
+<p style="display: none;" id="rts-loading-text">Loading...</p>
+<div class="grey-heading-container">
+<div class="grey-hr"></div>
+<div class="grey-heading">OVERVIEW</div>
+</div>
+<p>A number of different types of communication network are incorporated into the vehicle wiring harnesses for the transmission of commands and information between control modules. The configuration installed on a particular vehicle depends on the model and equipment level.</p>
+<div class="wcn-container">
+<div class="note-alert">NOTE:</div>
+<div class="note-box">
+<p>The control diagrams shown in this section are schematics reflecting communications networks fitted to Right Hand Drive (RHD) vehicles only. For detailed layouts of the various communications networks fitted to Right Hand Drive (RHD) and Left Hand Drive (LHD) vehicles refer to the Electrical Guide.</p>
+</div>
+</div>
+<p>
+<span class="bold-black">Local Interconnect Network Bus</span>
+</p>
+<p>The Local Interconnect Network (LIN) bus is a low speed broadcast network that employs master and slave components. The master component transmits a message along a single wire to the slave components identifying which slave is to respond. The message has a header (slave identifier) and an empty data field. The identified slave component fills the data field with the relevant information and returns a message to the master component along the same wire.</p>
+<p>
+<span class="bold-black">Controller Area Network Bus</span>
+</p>
+<p>The Controller Area Network (CAN) bus is a high speed broadcast network where control modules automatically transmit information every few milliseconds. Information is broadcast down a pair of twisted wires, known as 'CAN high' and 'CAN low'. Information is transmitted on the CAN bus as a voltage difference between the 2 wires.</p>
+<p>
+<span class="bold-black">Private Bus</span>
+</p>
+<p>The Private Bus networks are a local bus for a system, either connecting 2 modules, or a small number of modules. Information is broadcast down a pair of twisted wires, known as 'CAN high' and 'CAN low'. Information is transmitted on the CAN bus as a voltage difference between the 2 wires.</p>
+<p>The communications networks available on the vehicle are shown below:</p>
+<ul style="list-style-type: disc;">
+<li>High Speed (HS) Controller Area Network (CAN) chassis systems bus</li>
+</ul>
+<ul style="list-style-type: disc;">
+<li>HS CAN comfort systems bus</li>
+</ul>
+<ul style="list-style-type: disc;">
+<li>HS CAN powertrain systems bus</li>
+</ul>
+<ul style="list-style-type: disc;">
+<li>Medium Speed (MS) CAN body systems bus</li>
+</ul>
+<ul style="list-style-type: disc;">
+<li>Local Interconnect Network (LIN)</li>
+</ul>
+<ul style="list-style-type: disc;">
+<li>Private Bus</li>
+</ul>
+<div class="grey-heading-container">
+<div class="grey-hr"></div>
+<div class="grey-heading">DESCRIPTION</div>
+</div>
+<p>Refer to the relevant system section for details of system description.</p>
+<div class="grey-heading-container">
+<div class="grey-hr"></div>
+<div class="grey-heading">OPERATION</div>
+</div>
+<p>Refer to the relevant system section for details of system operation.</p>
+<div class="grey-heading-container">
+<div class="grey-hr"></div>
+<div class="grey-heading">CONTROL DIAGRAMS</div>
+</div>
+<h2>High Speed Controller Area Network Chassis Systems Bus</h2>
+<a name="illus1"></a>
+<div class="zoom-image-wrapper">
+<div class="image-box">
+<a class="zoom-button popup-with-zoom-anim" href="..\..\..\topix\service\graphic\ODYSSEY\E234562\en_US\large_img"><i class="fa fa-search-plus"></i></a><img class="example-image" alt="E234562" src="..\..\..\topix\service\graphic\ODYSSEY\E234562\en_US\_img"></div>
+</div>
+<div style="font-size: 0pt;">&nbsp;</div>
+<h2>AM = High Speed (HS) Controller Area Network (CAN) chassis systems bus.</h2>
+<div class="second-table">
+<table class="display cell-border">
+<thead>
+<tr>
+<th>Item</th><th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td><td>Body Control Module/Gateway Module Assembly (BCM/GWM)</td>
+</tr>
+<tr>
+<td>2</td><td>Image Processing Module (IPM)</td>
+</tr>
+<tr>
+<td>3</td><td>Chassis Control Module (CHCM)</td>
+</tr>
+<tr>
+<td>4</td><td>Restraints Control Module (RCM)</td>
+</tr>
+<tr>
+<td>5</td><td>Transfer Case control Module (TCCM)</td>
+</tr>
+<tr>
+<td>6</td><td>Anti-lock Brake System (ABS) control module</td>
+</tr>
+<tr>
+<td>7</td><td>Power Steering Control Module (PSCM)</td>
+</tr>
+<tr>
+<td>8</td><td>JaguarDrive Switchpack (JDS)</td>
+</tr>
+<tr>
+<td>9</td><td>Diagnostic connector (J1962)</td>
+</tr>
+<tr>
+<td>10</td><td>Parking Assist Control Module (PAM)</td>
+</tr>
+<tr>
+<td>11</td><td>Steering Wheel Module (SWM) </td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>High Speed Controller Area Network Comfort Systems Bus</h2>
+<a name="illus2"></a>
+<div class="zoom-image-wrapper">
+<div class="image-box">
+<a class="zoom-button popup-with-zoom-anim" href="..\..\..\topix\service\graphic\ODYSSEY\E234563\en_US\large_img"><i class="fa fa-search-plus"></i></a><img class="example-image" alt="E234563" src="..\..\..\topix\service\graphic\ODYSSEY\E234563\en_US\_img"></div>
+</div>
+<div style="font-size: 0pt;">&nbsp;</div>
+<h2>AV = High Speed (HS) Controller Area Network (CAN) comfort systems bus.</h2>
+<div class="second-table">
+<table class="display cell-border">
+<thead>
+<tr>
+<th>Item</th><th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td><td>Body Control Module/Gateway Module (BCM/GWM)</td>
+</tr>
+<tr>
+<td>2</td><td>Side Obstacle Detection Control Module - Right (SODR)</td>
+</tr>
+<tr>
+<td>3</td><td>Infotainment Master Controller (IMC)</td>
+</tr>
+<tr>
+<td>4</td><td>Integrated Control Panel (ICP)</td>
+</tr>
+<tr>
+<td>5</td><td>Rear Integrated Control Panel (RICP)</td>
+</tr>
+<tr>
+<td>6</td><td>Head Up Display control module (HUDCM)</td>
+</tr>
+<tr>
+<td>7</td><td>Head Up Display (HUD)</td>
+</tr>
+<tr>
+<td>8</td><td>Instrument Cluster (IC)</td>
+</tr>
+<tr>
+<td>9</td><td>HVAC Control Module</td>
+</tr>
+<tr>
+<td>10</td><td>Diagnostic connector (J1962)</td>
+</tr>
+<tr>
+<td>11</td><td>Audio Head Unit (AHU)</td>
+</tr>
+<tr>
+<td>12</td><td>Image Processing Module 'B' (IPMB)</td>
+</tr>
+<tr>
+<td>13</td><td>Side Obstacle Detection Control Module - Left (SODR)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>High Speed Controller Area Network Powertrain Systems Bus</h2>
+<a name="illus3"></a>
+<div class="zoom-image-wrapper">
+<div class="image-box">
+<a class="zoom-button popup-with-zoom-anim" href="..\..\..\topix\service\graphic\ODYSSEY\E234564\en_US\large_img"><i class="fa fa-search-plus"></i></a><img class="example-image" alt="E234564" src="..\..\..\topix\service\graphic\ODYSSEY\E234564\en_US\_img"></div>
+</div>
+<div style="font-size: 0pt;">&nbsp;</div>
+<h2>AN = High Speed (HS) Controller Area Network (CAN) powertrain systems bus.</h2>
+<div class="second-table">
+<table class="display cell-border">
+<thead>
+<tr>
+<th>Item</th><th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td><td>Body Control Module/Gateway Module (BCM/GWM)</td>
+</tr>
+<tr>
+<td>2</td><td>Powertrain Control Module (PCM)</td>
+</tr>
+<tr>
+<td>3</td><td>Adaptive Speed Control Module (ASCM)</td>
+</tr>
+<tr>
+<td>4</td><td>Chassis Control Module (CHCM)</td>
+</tr>
+<tr>
+<td>5</td><td>Telematics Control Module (TCU)</td>
+</tr>
+<tr>
+<td>6</td><td>Transmission Control Module (TCM)</td>
+</tr>
+<tr>
+<td>7</td><td>Instrument Cluster (IC)</td>
+</tr>
+<tr>
+<td>8</td><td>Diagnostic connector (J1962)</td>
+</tr>
+<tr>
+<td>9</td><td>Occupant Classification Sensor Control Module (OCSCM)</td>
+</tr>
+<tr>
+<td>10</td><td>Tire Pressure Monitoring System Control Module (TPMSCM)</td>
+</tr>
+<tr>
+<td>11</td><td>Gearshift Module (GSM)</td>
+</tr>
+<tr>
+<td>12</td><td>Electric Steering Column Lock control module (ESCL)</td>
+</tr>
+<tr>
+<td>13</td><td>Restraints Control Module (RCM)</td>
+</tr>
+<tr>
+<td>14</td><td>Anti-lock Brake System control module (ABS)</td>
+</tr>
+<tr>
+<td>15</td><td>Transfer Case Control Module (TCCM)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Medium Speed Controller Area Network Body Systems Bus</h2>
+<a name="illus4"></a>
+<div class="zoom-image-wrapper">
+<div class="image-box">
+<a class="zoom-button popup-with-zoom-anim" href="..\..\..\topix\service\graphic\ODYSSEY\E234568\en_US\large_img"><i class="fa fa-search-plus"></i></a><img class="example-image" alt="E234568" src="..\..\..\topix\service\graphic\ODYSSEY\E234568\en_US\_img"></div>
+</div>
+<div style="font-size: 0pt;">&nbsp;</div>
+<h2>AO = Medium Speed (MS) Controller Area Network (CAN) body systems bus.</h2>
+<div class="second-table">
+<table class="display cell-border">
+<thead>
+<tr>
+<th>Item</th><th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td><td>Body Control Module/Gateway Module (BCM/GWM)</td>
+</tr>
+<tr>
+<td>2</td><td>Driver Seat Climate Control Module (DSCCM)</td>
+</tr>
+<tr>
+<td>3</td><td>Passenger Seat Climate Control Module (PSCCM)</td>
+</tr>
+<tr>
+<td>4</td><td>Tailgate Control Module (TGCM)</td>
+</tr>
+<tr>
+<td>5</td><td>Remote Function Actuator (RFA)</td>
+</tr>
+<tr>
+<td>6</td><td>Telematics Control Module (TCU)</td>
+</tr>
+<tr>
+<td>7</td><td>Deployable Towbar Control Module (DTCM)</td>
+</tr>
+<tr>
+<td>8</td><td>Diagnostic connector (J1962)</td>
+</tr>
+<tr>
+<td>9</td><td>Rear Door Module (RDM) - Left</td>
+</tr>
+<tr>
+<td>10</td><td>Rear Door Module (RDM) - Right</td>
+</tr>
+<tr>
+<td>11</td><td>Passenger Door Module (PDM)</td>
+</tr>
+<tr>
+<td>12</td><td>Driver Door Module (DDM)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Local Interconnect Network 1 - Climate Control</h2>
+<a name="illus5"></a>
+<div class="zoom-image-wrapper">
+<div class="image-box">
+<a class="zoom-button popup-with-zoom-anim" href="..\..\..\topix\service\graphic\ODYSSEY\E234566\en_US\large_img"><i class="fa fa-search-plus"></i></a><img class="example-image" alt="E234566" src="..\..\..\topix\service\graphic\ODYSSEY\E234566\en_US\_img"></div>
+</div>
+<div style="font-size: 0pt;">&nbsp;</div>
+<h2>O = Local Interconnect Network (LIN) bus.</h2>
+<div class="second-table">
+<table class="display cell-border">
+<thead>
+<tr>
+<th>Item</th><th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td><td>HVAC Control Module</td>
+</tr>
+<tr>
+<td>2</td><td>Temperature and humidity sensor</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Local Interconnect Network 2 - Body Control Module</h2>
+<a name="illus6"></a>
+<div class="zoom-image-wrapper">
+<div class="image-box">
+<a class="zoom-button popup-with-zoom-anim" href="..\..\..\topix\service\graphic\ODYSSEY\E234549\en_US\large_img"><i class="fa fa-search-plus"></i></a><img class="example-image" alt="E234549" src="..\..\..\topix\service\graphic\ODYSSEY\E234549\en_US\_img"></div>
+</div>
+<div style="font-size: 0pt;">&nbsp;</div>
+<h2>O = Local Interconnect Network (LIN) bus.</h2>
+<div class="second-table">
+<table class="display cell-border">
+<thead>
+<tr>
+<th>Item</th><th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td><td>Body Control Module/Gateway Module (BCM/GWM)</td>
+</tr>
+<tr>
+<td>2</td><td>Front overhead console</td>
+</tr>
+<tr>
+<td>3</td><td>Rain/light sensor</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Local Interconnect Network 3 - Generator</h2>
+<a name="illus7"></a>
+<div class="zoom-image-wrapper">
+<div class="image-box">
+<a class="zoom-button popup-with-zoom-anim" href="..\..\..\topix\service\graphic\ODYSSEY\E187933\en_US\large_img"><i class="fa fa-search-plus"></i></a><img class="example-image" alt="E187933" src="..\..\..\topix\service\graphic\ODYSSEY\E187933\en_US\_img"></div>
+</div>
+<div style="font-size: 0pt;">&nbsp;</div>
+<h2>O = Local Interconnect Network (LIN) bus.</h2>
+<div class="second-table">
+<table class="display cell-border">
+<thead>
+<tr>
+<th>Item</th><th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td><td>Gateway Module (GWM)</td>
+</tr>
+<tr>
+<td>2</td><td>Generator</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Local Interconnect Network 3 - Powertrain Control Module</h2>
+<a name="illus8"></a>
+<div class="zoom-image-wrapper">
+<div class="image-box">
+<a class="zoom-button popup-with-zoom-anim" href="..\..\..\topix\service\graphic\ODYSSEY\E234557\en_US\large_img"><i class="fa fa-search-plus"></i></a><img class="example-image" alt="E234557" src="..\..\..\topix\service\graphic\ODYSSEY\E234557\en_US\_img"></div>
+</div>
+<div style="font-size: 0pt;">&nbsp;</div>
+<h2>O = Local Interconnect Network (LIN) bus.</h2>
+<div class="second-table">
+<table class="display cell-border">
+<thead>
+<tr>
+<th>Item</th><th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td><td>Powertrain Control Module (PCM)</td>
+</tr>
+<tr>
+<td>2</td><td>Glow plug control module</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Local Interconnect Network 3 - Instrument Cluster</h2>
+<a name="illus9"></a>
+<div class="zoom-image-wrapper">
+<div class="image-box">
+<a class="zoom-button popup-with-zoom-anim" href="..\..\..\topix\service\graphic\ODYSSEY\E234565\en_US\large_img"><i class="fa fa-search-plus"></i></a><img class="example-image" alt="E234565" src="..\..\..\topix\service\graphic\ODYSSEY\E234565\en_US\_img"></div>
+</div>
+<div style="font-size: 0pt;">&nbsp;</div>
+<h2>O = Local Interconnect Network (LIN) bus.</h2>
+<div class="second-table">
+<table class="display cell-border">
+<thead>
+<tr>
+<th>Item</th><th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td><td>Steering Wheel Module (SWM)</td>
+</tr>
+<tr>
+<td>2</td><td>Instrument Cluster (IC)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Local Interconnect Network 3 - Body Control Module - Roof Opening Panel</h2>
+<a name="illus10"></a>
+<div class="zoom-image-wrapper">
+<div class="image-box">
+<a class="zoom-button popup-with-zoom-anim" href="..\..\..\topix\service\graphic\ODYSSEY\E234549\en_US\large_img"><i class="fa fa-search-plus"></i></a><img class="example-image" alt="E234549" src="..\..\..\topix\service\graphic\ODYSSEY\E234549\en_US\_img"></div>
+</div>
+<div style="font-size: 0pt;">&nbsp;</div>
+<h2>O = Local Interconnect Network (LIN) bus.</h2>
+<div class="second-table">
+<table class="display cell-border">
+<thead>
+<tr>
+<th>Item</th><th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td><td>Body Control Module/ Gateway Module (BCM/GWM)</td>
+</tr>
+<tr>
+<td>2</td><td>Roof opening panel motor</td>
+</tr>
+<tr>
+<td>3</td><td>Roof blind motor</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Local Interconnect Network 4 - Body Control Module</h2>
+<a name="illus11"></a>
+<div class="zoom-image-wrapper">
+<div class="image-box">
+<a class="zoom-button popup-with-zoom-anim" href="..\..\..\topix\service\graphic\ODYSSEY\E234550\en_US\large_img"><i class="fa fa-search-plus"></i></a><img class="example-image" alt="E234550" src="..\..\..\topix\service\graphic\ODYSSEY\E234550\en_US\_img"></div>
+</div>
+<div style="font-size: 0pt;">&nbsp;</div>
+<h2>O = Local Interconnect Network (LIN) bus.</h2>
+<div class="second-table">
+<table class="display cell-border">
+<thead>
+<tr>
+<th>Item</th><th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td><td>Body Control Module/ Gateway Module (BCM/GWM)</td>
+</tr>
+<tr>
+<td>2</td><td>Immobilizer Antenna Unit (IAU)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Local Interconnect Network 4 - Tailgate</h2>
+<a name="illus12"></a>
+<div class="zoom-image-wrapper">
+<div class="image-box">
+<a class="zoom-button popup-with-zoom-anim" href="..\..\..\topix\service\graphic\ODYSSEY\E234561\en_US\large_img"><i class="fa fa-search-plus"></i></a><img class="example-image" alt="E234561" src="..\..\..\topix\service\graphic\ODYSSEY\E234561\en_US\_img"></div>
+</div>
+<div style="font-size: 0pt;">&nbsp;</div>
+<h2>O = Local Interconnect Network (LIN) bus.</h2>
+<div class="second-table">
+<table class="display cell-border">
+<thead>
+<tr>
+<th>Item</th><th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td><td>Remote Function Actuator (RFA)</td>
+</tr>
+<tr>
+<td>2</td><td>Hands-free tailgate module - Left</td>
+</tr>
+<tr>
+<td>3</td><td>Hands-free tailgate module - Right</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Local Interconnect Network - Fuel Fired Booster Heater</h2>
+<a name="illus13"></a>
+<div class="zoom-image-wrapper">
+<div class="image-box">
+<a class="zoom-button popup-with-zoom-anim" href="..\..\..\topix\service\graphic\ODYSSEY\E234553\en_US\large_img"><i class="fa fa-search-plus"></i></a><img class="example-image" alt="E234553" src="..\..\..\topix\service\graphic\ODYSSEY\E234553\en_US\_img"></div>
+</div>
+<div style="font-size: 0pt;">&nbsp;</div>
+<h2>O = Local Interconnect Network (LIN) bus.</h2>
+<div class="second-table">
+<table class="display cell-border">
+<thead>
+<tr>
+<th>Item</th><th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td><td>Fuel Fired Booster Heater (FFBH) Control Module</td>
+</tr>
+<tr>
+<td>2</td><td>FFBH blower</td>
+</tr>
+<tr>
+<td>3</td><td>FFBH</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Local Interconnect Network 7 - Body Control Module</h2>
+<a name="illus14"></a>
+<div class="zoom-image-wrapper">
+<div class="image-box">
+<a class="zoom-button popup-with-zoom-anim" href="..\..\..\topix\service\graphic\ODYSSEY\E234549\en_US\large_img"><i class="fa fa-search-plus"></i></a><img class="example-image" alt="E234549" src="..\..\..\topix\service\graphic\ODYSSEY\E234549\en_US\_img"></div>
+</div>
+<div style="font-size: 0pt;">&nbsp;</div>
+<h2>O = Local Interconnect Network (LIN) bus.</h2>
+<div class="second-table">
+<table class="display cell-border">
+<thead>
+<tr>
+<th>Item</th><th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td><td>Body Control Module/ Gateway Module (BCM/GWM)</td>
+</tr>
+<tr>
+<td>2</td><td>Headlamp assembly right</td>
+</tr>
+<tr>
+<td>3</td><td>Headlamp assembly left</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Local Interconnect Network - Audio</h2>
+<a name="illus15"></a>
+<div class="zoom-image-wrapper">
+<div class="image-box">
+<a class="zoom-button popup-with-zoom-anim" href="..\..\..\topix\service\graphic\ODYSSEY\E234567\en_US\large_img"><i class="fa fa-search-plus"></i></a><img class="example-image" alt="E234567" src="..\..\..\topix\service\graphic\ODYSSEY\E234567\en_US\_img"></div>
+</div>
+<div style="font-size: 0pt;">&nbsp;</div>
+<h2>O = Local Interconnect Network (LIN) bus.</h2>
+<div class="second-table">
+<table class="display cell-border">
+<thead>
+<tr>
+<th>Item</th><th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td><td>Steering Wheel Module (SWM)</td>
+</tr>
+<tr>
+<td>2</td><td>Audio Head Unit (AHU)</td>
+</tr>
+<tr>
+<td>3</td><td>Infotainment Master Controller (IMC)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Local Interconnect Network - Driver Seat</h2>
+<a name="illus16"></a>
+<div class="zoom-image-wrapper">
+<div class="image-box">
+<a class="zoom-button popup-with-zoom-anim" href="..\..\..\topix\service\graphic\ODYSSEY\E234552\en_US\large_img"><i class="fa fa-search-plus"></i></a><img class="example-image" alt="E234552" src="..\..\..\topix\service\graphic\ODYSSEY\E234552\en_US\_img"></div>
+</div>
+<div style="font-size: 0pt;">&nbsp;</div>
+<div class="second-table">
+<table class="display cell-border">
+<thead>
+<tr>
+<th>Item</th><th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td><td>Driver seat switchpack</td>
+</tr>
+<tr>
+<td>2</td><td>Driver Seat Module (DSM)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Local Interconnect Network - Passenger Seat</h2>
+<a name="illus17"></a>
+<div class="zoom-image-wrapper">
+<div class="image-box">
+<a class="zoom-button popup-with-zoom-anim" href="..\..\..\topix\service\graphic\ODYSSEY\E234559\en_US\large_img"><i class="fa fa-search-plus"></i></a><img class="example-image" alt="E234559" src="..\..\..\topix\service\graphic\ODYSSEY\E234559\en_US\_img"></div>
+</div>
+<div style="font-size: 0pt;">&nbsp;</div>
+<h2>O = Local Interconnect Network (LIN) bus.</h2>
+<div class="second-table">
+<table class="display cell-border">
+<thead>
+<tr>
+<th>Item</th><th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td><td>Passenger seat switchpack</td>
+</tr>
+<tr>
+<td>2</td><td>Passenger Seat Module (PSM)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Private Bus - Side Object Detection</h2>
+<a name="illus18"></a>
+<div class="zoom-image-wrapper">
+<div class="image-box">
+<a class="zoom-button popup-with-zoom-anim" href="..\..\..\topix\service\graphic\ODYSSEY\E220533\en_US\large_img"><i class="fa fa-search-plus"></i></a><img class="example-image" alt="E220533" src="..\..\..\topix\service\graphic\ODYSSEY\E220533\en_US\_img"></div>
+</div>
+<div style="font-size: 0pt;">&nbsp;</div>
+<h2>U = Private bus.</h2>
+<div class="second-table">
+<table class="display cell-border">
+<thead>
+<tr>
+<th>Item</th><th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td><td>Side Object Detection Control Module - Left (SODL)</td>
+</tr>
+<tr>
+<td>2</td><td>Side Object Detection Control Module - Right (SODR)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--[if lt IE 9]><script type="text/javascript" src="..\..\..\topix/odyssey/style/webresources/js/font-awesome-ie8.js"></script><![endif]-->
+<div style="display:none;" class="spinner-wrapper">
+<div class="spinner">
+<div class="spinner-image-wrapper">
+<img title="Loading..." alt="Loading..." src="..\..\..\topix/odyssey/style/webresources/img/spinner.png" class="scanning-image"></div>
+<p>Scanning barcode and converting to serial number...</p>
+</div>
+</div>
+</body>
+</html>

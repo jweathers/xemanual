@@ -1,0 +1,863 @@
+<svg contentScriptType="text/ecmascript" zoomAndPan="disable" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" onload="ewd.init(evt)" contentStyleType="text/css" id="iewd-svg" version="1.1" width="100%" preserveAspectRatio="xMinYMin meet" viewBox="0 0 10500 7250" height="100%" xmlns="http://www.w3.org/2000/svg">
+
+
+
+
+
+
+<rect width="31500.0" x="-10500.0" id="dragbox" height="21750.0" y="-7250.0" class="drag-box"/><g style="font-family: Arial;" id="ewdmatrix" transform="matrix(1 0 0 1 0 0)"><title></title><desc>Symca Ltd CGM-SVG processor - Format Ver3.02 - Created: 20-Jul-18  11:08am - using EDS-Designer: 16.98  (info@symca.com)</desc><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C31A3&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C31A3" xlink:actuate="onRequest" id="C31A3-4" xlink:show="replace"><text x="6785.000" font-size="60.5" id="INLINE_LH_C31A3_0078" y="2298.000" style="text-anchor: end; fill: #0000ff;">C31A3-4</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C31B3&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C31B3" xlink:actuate="onRequest" id="C31B3-4" xlink:show="replace"><text x="6820.000" font-size="60.5" id="INLINE_RH_C31B3_0078" y="2298.000" style="text-anchor: start; fill: #0000ff;">C31B3-4</text></a><a cursor="pointer" onclick="window.parent.showSpliceCrossReferences(&apos;SPSB101P&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="SPSB101P" xlink:actuate="onRequest" id="SPSB101P" xlink:show="replace"><text x="1902.000" font-size="60.5" id="SPLICE_SPSB101P_0081" y="7622.000" style="text-anchor: middle; fill: #0000ff;">SPSB101P</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-78" xlink:show="replace"><text x="3453.000" font-size="60.5" id="DEVCONN_C3BP00_0082" y="7728.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-78</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-77" xlink:show="replace"><text x="5904.000" font-size="60.5" id="DEVCONN_C3BP00_0083" y="7728.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-77</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-75" xlink:show="replace"><text x="5904.000" font-size="60.5" id="DEVCONN_C3BP00_0085" y="6410.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-75</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-55" xlink:show="replace"><text x="5904.000" font-size="60.5" id="DEVCONN_C3BP00_0086" y="6937.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-55</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-88" xlink:show="replace"><text x="3453.000" font-size="60.5" id="DEVCONN_C3BP00_0088" y="7464.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-88</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-66" xlink:show="replace"><text x="3453.000" font-size="60.5" id="DEVCONN_C3BP00_0089" y="6673.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-66</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-87" xlink:show="replace"><text x="5909.000" font-size="60.5" id="DEVCONN_C3BP00_0090" y="7464.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-87</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-45" xlink:show="replace"><text x="5904.000" font-size="60.5" id="DEVCONN_C3BP00_0091" y="7201.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-45</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-65" xlink:show="replace"><text x="5904.000" font-size="60.5" id="DEVCONN_C3BP00_0092" y="6673.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-65</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-70" xlink:show="replace"><text x="3458.000" font-size="60.5" id="DEVCONN_C3BP00_0093" y="5355.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-70</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-85" xlink:show="replace"><text x="5904.000" font-size="60.5" id="DEVCONN_C3BP00_0094" y="6146.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-85</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-49" xlink:show="replace"><text x="5904.000" font-size="60.5" id="DEVCONN_C3BP00_0095" y="5883.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-49</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-59" xlink:show="replace"><text x="5904.000" font-size="60.5" id="DEVCONN_C3BP00_0096" y="5619.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-59</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-79" xlink:show="replace"><text x="5909.000" font-size="60.5" id="DEVCONN_C3BP00_0097" y="5355.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-79</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-14" xlink:show="replace"><text x="3453.000" font-size="60.5" id="DEVCONN_C3BP00_0098" y="2878.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-14</text></a><a cursor="pointer" onclick="window.parent.showSpliceCrossReferences(&apos;SPSB101L&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="SPSB101L" xlink:actuate="onRequest" id="SPSB101L" xlink:show="replace"><text x="1902.000" font-size="60.5" id="SPLICE_SPSB101L_0099" y="3537.000" style="text-anchor: middle; fill: #0000ff;">SPSB101L</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-48" xlink:show="replace"><text x="3453.000" font-size="60.5" id="DEVCONN_C3BP00_0100" y="4038.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-48</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-47" xlink:show="replace"><text x="5904.000" font-size="60.5" id="DEVCONN_C3BP00_0101" y="4038.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-47</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-38" xlink:show="replace"><text x="3453.000" font-size="60.5" id="DEVCONN_C3BP00_0102" y="4301.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-38</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-28" xlink:show="replace"><text x="3458.000" font-size="60.5" id="DEVCONN_C3BP00_0103" y="4565.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-28</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-89" xlink:show="replace"><text x="5904.000" font-size="60.5" id="DEVCONN_C3BP00_0104" y="5092.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-89</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-69" xlink:show="replace"><text x="5909.000" font-size="60.5" id="DEVCONN_C3BP00_0105" y="4828.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-69</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-37" xlink:show="replace"><text x="5904.000" font-size="60.5" id="DEVCONN_C3BP00_0106" y="4301.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-37</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-27" xlink:show="replace"><text x="5909.000" font-size="60.5" id="DEVCONN_C3BP00_0107" y="4565.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-27</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-40" xlink:show="replace"><text x="3453.000" font-size="60.5" id="DEVCONN_C3BP00_0108" y="3510.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-40</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-30" xlink:show="replace"><text x="3453.000" font-size="60.5" id="DEVCONN_C3BP00_0109" y="3774.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-30</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-10" xlink:show="replace"><text x="3458.000" font-size="60.5" id="DEVCONN_C3BP00_0110" y="3247.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-10</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-39" xlink:show="replace"><text x="5904.000" font-size="60.5" id="DEVCONN_C3BP00_0111" y="3510.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-39</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-29" xlink:show="replace"><text x="5904.000" font-size="60.5" id="DEVCONN_C3BP00_0113" y="3774.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-29</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-11" xlink:show="replace"><text x="5909.000" font-size="60.5" id="DEVCONN_C3BP00_0114" y="3194.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-11</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP00&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP00" xlink:actuate="onRequest" id="C3BP00-13" xlink:show="replace"><text x="5909.000" font-size="60.5" id="DEVCONN_C3BP00_0115" y="2983.000" style="text-anchor: middle; fill: #0000ff;">C3BP00-13</text></a><a cursor="pointer" onclick="window.parent.showSpliceCrossReferences(&apos;SP7202&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="SP7202" xlink:actuate="onRequest" id="SP7202" xlink:show="replace"><text x="742.000" font-size="60.5" id="SPLICE_SP7202_0116" y="2456.000" style="text-anchor: middle; fill: #0000ff;">SP7202</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C4BF01P&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C4BF01P" xlink:actuate="onRequest" id="C4BF01P-1" xlink:show="replace"><text x="795.000" font-size="60.5" id="DEVCONN_C4BF01P_0117" y="2140.000" style="text-anchor: middle; fill: #0000ff;">C4BF01P-1</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;G3D139&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="G3D139" xlink:actuate="onRequest" id="G3D139-10" xlink:show="replace"><text x="9705.000" font-size="60.5" id="DEVCONN_G3D139_0118" y="3194.000" style="text-anchor: middle; fill: #0000ff;">G3D139-10</text></a><a cursor="pointer" onclick="window.parent.showSpliceCrossReferences(&apos;SP1D107&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="SP1D107" xlink:actuate="onRequest" id="SP1D107" xlink:show="replace"><text x="7016.000" font-size="60.5" id="SPLICE_SP1D107_0119" y="2667.000" style="text-anchor: middle; fill: #0000ff;">SP1D107</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C3BP01B&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C3BP01B" xlink:actuate="onRequest" id="C3BP01B-10" xlink:show="replace"><text x="8308.000" font-size="60.5" id="DEVCONN_C3BP01B_0120" y="2667.000" style="text-anchor: middle; fill: #0000ff;">C3BP01B-10</text></a><a cursor="pointer" onclick="window.parent.showERLSelector(&apos;C1BB01A&apos;)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" class="C1BB01A" xlink:actuate="onRequest" id="C1BB01A-45" xlink:show="replace"><text x="8308.000" font-size="60.5" id="DEVCONN_C1BB01A_0122" y="2087.000" style="text-anchor: middle; fill: #0000ff;">C1BB01A-45</text></a><g style="font-family: Arial Unicode MS, Arial;" id="EDS_CIRCUIT_GROUP">
+
+<text fill="silver" x="168.000" font-size="30.000" id="EDS_CCT_PARTNUM" y="1771.400" style="font-family: Arial Unicode MS, Arial;">HX73-70010-H-A-02-02-Service (X760-17MY-JOB1P90)<title>HX73-70010-H-A-02-02-Service (X760-17MY-JOB1P90)</title></text>
+
+<text fill="gray" x="9961.000" font-size="20" id="EDS_CCT_BOTTOM_RIGHT_MARKER" y="8091.000" style="font-family: Arial Unicode MS, Arial;">x</text>
+
+<polyline style="fill: none; stroke: #FF0000; stroke-width: 34;" points="3642 5408,742 5408,742 2930,742 2532"/>
+<text x="1214.000" font-size="60.5" id="WIRE_NA_0003" y="5355.000">RD,  4.0,  885<title>SB101M,   DR_1</title></text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="3958 5158,3958 5395"/>
+<polyline style="fill: none; stroke: #FF0000; stroke-width: 34;" points="719 2508,268 2508,268 7517,2089 7517"/>
+<text x="1214.000" font-size="60.5" id="WIRE_NA_0004" y="7464.000">RD,  6.0,  105<title>SB101P,   DR_1</title></text>
+<polyline style="fill: none; stroke: #FF0000; stroke-width: 34;" points="3638 7781,2113 7781,2113 7541"/>
+<text x="2532.000" font-size="60.5" id="WIRE_NA_0005" y="7728.000">RD,  2.5,  990<title>SB123A,   DR_1</title></text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4560 7781,5694 7781"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="3690 7781,4297 7781"/>
+<polyline style="fill: none; stroke: #FF0000; stroke-width: 34;" points="2113 7493,2113 6726,3638 6726"/>
+<text x="2269.000" font-size="60.5" id="WIRE_NA_0006" y="6673.000">RD,  4.0,  990<title>SB101N,   DR_1</title></text>
+<polyline style="fill: none; stroke: #FF0000; stroke-width: 34;" points="3638 7517,2137 7517"/>
+<text x="2532.000" font-size="60.5" id="WIRE_NA_0007" y="7464.000">RD,  2.5,  990<title>SB122A,   DR_1</title></text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4297 6199,3958 6199,3958 6444"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4560 6726,5694 6726"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4560 6463,5694 6463"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4560 6990,5694 6990"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4560 7253,5694 7253"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4560 7517,5698 7517"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="3690 7517,4297 7517"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4297 7253,3958 7253,3958 7008"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="3690 6726,3940 6726"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4297 6726,3977 6726"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4297 6990,3977 6990"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="3958 6745,3958 6971"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4297 6463,3977 6463"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="3958 6708,3958 6481"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4560 5408,5698 5408"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4560 5672,5694 5672"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4560 5935,5694 5935"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4560 6199,5694 6199"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4297 5935,3958 5935,3958 5685"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="3958 5421,3958 5658"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4297 5672,3972 5672"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4297 5408,3972 5408"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="3695 5408,3945 5408"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 38;" points="8492 2140,6331 2140,6331 2350,6746 2350"/>
+<polyline style="fill: none; stroke: #FFFFF0; stroke-width: 29;" points="8492 2140,6331 2140,6331 2350,6746 2350"/>
+<polyline style="fill: none; stroke: #874505; stroke-width: 13;" points="8492 2140,6331 2140,6331 2350,6746 2350"/>
+<text x="7277.000" font-size="60.5" id="WIRE_NA_0008" y="2087.000">WH-BN,  0.5,  1740<title>SBB107A,   DR_1</title></text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 38;" points="6865 2350,8123 2350,8123 2561,6331 2561,6331 2719,7095 2719"/>
+<polyline style="fill: none; stroke: #FFFFF0; stroke-width: 29;" points="6865 2350,8123 2350,8123 2561,6331 2561,6331 2719,7095 2719"/>
+<polyline style="fill: none; stroke: #874505; stroke-width: 13;" points="6865 2350,8123 2350,8123 2561,6331 2561,6331 2719,7095 2719"/>
+<text x="7277.000" font-size="60.5" id="WIRE_NA_0009" y="2298.000">WH-BN,  0.5,  420<title>SBB107B,   DR_1</title></text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 38;" points="7121 2746,7121 3036,5777 3036"/>
+<polyline style="fill: none; stroke: #FFFFF0; stroke-width: 29;" points="7121 2746,7121 3036,5777 3036"/>
+<polyline style="fill: none; stroke: #874505; stroke-width: 13;" points="7121 2746,7121 3036,5777 3036"/>
+<text x="6275.000" font-size="60.5" id="WIRE_NA_0010" y="2983.000">WH-BN,  0.5,  250<title>SBB107D,   DR_1</title></text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 34;" points="9692 3247,5751 3247"/>
+<text x="6275.000" font-size="60.5" id="WIRE_NA_0011" y="3194.000">BK,  0.5,  1315<title>GD134Y,   DR_1</title></text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="5724 3036,5276 3036,5276 2588,4112 2588,4112 3036,4442 3036"/>
+<polyline style="fill: none; stroke: #1DB200; stroke-width: 34;" points="3638 2930,953 2930,753 2530"/>
+<polyline style="fill: none; stroke: #FFFF00; stroke-width: 13;" points="3638 2930,953 2930,753 2530"/>
+<text x="1214.000" font-size="60.5" id="WIRE_NA_0012" y="2878.000">GN-YE,  5.0,  885<title>SB101H,   DR_1</title></text>
+<polyline style="fill: none; stroke: #1DB200; stroke-width: 34;" points="3642 3299,2113 3299,2113 3539"/>
+<polyline style="fill: none; stroke: #FFFF00; stroke-width: 13;" points="3642 3299,2113 3299,2113 3539"/>
+<text x="2427.000" font-size="60.5" id="WIRE_NA_0013" y="3247.000">GN-YE,  5.0,  80<title>SB101L,   DR_1</title></text>
+<polyline style="fill: none; stroke: #FF0000; stroke-width: 34;" points="3638 3563,2137 3563"/>
+<text x="2427.000" font-size="60.5" id="WIRE_NA_0014" y="3510.000">RD,  2.5,  80<title>SB120A,   DR_1</title></text>
+<polyline style="fill: none; stroke: #FF0000; stroke-width: 34;" points="3638 3827,2271 3827,2125 3583"/>
+<text x="2427.000" font-size="60.5" id="WIRE_NA_0015" y="3774.000">RD,  2.5,  80<title>SB121A,   DR_1</title></text>
+<polyline style="fill: none; stroke: #FF0000; stroke-width: 34;" points="3638 4090,2271 4090,2120 3586"/>
+<text x="2427.000" font-size="60.5" id="WIRE_NA_0016" y="4038.000">RD,  2.5,  80<title>SB126A,   DR_1</title></text>
+<polyline style="fill: none; stroke: #FF0000; stroke-width: 34;" points="3638 4354,2219 4354,2116 3587"/>
+<text x="2427.000" font-size="60.5" id="WIRE_NA_0017" y="4301.000">RD,  2.5,  80<title>SB127A,   DR_1</title></text>
+<polyline style="fill: none; stroke: #FF0000; stroke-width: 34;" points="3642 4617,2113 4617,2113 3587"/>
+<text x="2427.000" font-size="60.5" id="WIRE_NA_0018" y="4565.000">RD,  2.5,  80<title>SB128A,   DR_1</title></text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4560 4090,5694 4090"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4560 4354,5694 4354"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4565 4881,5698 4881"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4560 5145,5694 5145"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4565 4617,5698 4617"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4301 4881,3958 4881,3958 5131"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4297 5145,3972 5145"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="3690 4090,4297 4090"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="3690 4354,4297 4354"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="3695 4617,4301 4617"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4573 2983,4749 2983,4749 3299,3695 3299"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4573 3036,4908 3036,4907 3247,5698 3247"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4565 3563,5694 3563"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4560 3827,5694 3827"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="3690 3563,4301 3563"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="3690 3827,4297 3827"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 6;" points="4442 2930,3690 2930"/>
+<polyline style="fill: none; stroke: #1DB200; stroke-width: 34;" points="637 2192,2060 2192,2060 2508,766 2508"/>
+<text x="1161.000" font-size="60.5" id="WIRE_NA_0019" y="2140.000">GN,  6.0,  4080<title>SBR04A,   DR_1</title></text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 38;" points="7148 2719,8492 2719"/>
+<polyline style="fill: none; stroke: #FFFFF0; stroke-width: 29;" points="7148 2719,8492 2719"/>
+<polyline style="fill: none; stroke: #874505; stroke-width: 13;" points="7148 2719,8492 2719"/>
+<text x="7277.000" font-size="60.5" id="WIRE_NA_0020" y="2667.000">WH-BN,  0.5,  240<title>SBB107C,   DR_1</title></text>
+<polygon style="fill: none;stroke-dasharray:100 50; stroke: #000000; stroke-width: 13;" points="3695 7991,3695 2324,5698 2324,5698 7991"/>
+<text x="3680.000" font-size="81.6" id="COMPSL_P176_0021" y="2298.000" style="font-weight: bold;">Junction box-Passenger<title>Junction box-Passenger</title></text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 5382,4534 5434"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 5434,4534 5382"/>
+<text x="4428.000" font-size="48.0" id="TXT_NA_0022" y="5355.000" style="text-anchor: middle;">SWM</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0023" y="5291.000" style="text-anchor: middle;">PF16</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0024" y="5487.000" style="text-anchor: middle;">5.0 Amps</text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 5645,4534 5698"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 5698,4534 5645"/>
+<text x="4428.000" font-size="48.0" id="TXT_NA_0025" y="5619.000" style="text-anchor: middle;">HORNS</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0026" y="5554.000" style="text-anchor: middle;">PF18</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0027" y="5751.000" style="text-anchor: middle;">15.0 Amps</text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 5909,4534 5962"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 5962,4534 5909"/>
+<text x="4428.000" font-size="48.0" id="TXT_NA_0028" y="5883.000" style="text-anchor: middle;">SPARE</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0029" y="5818.000" style="text-anchor: middle;">PF19</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0030" y="6014.000" style="text-anchor: middle;">5.0 Amps</text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 6700,4534 6752"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 6752,4534 6700"/>
+<text x="4428.000" font-size="48.0" id="TXT_NA_0031" y="6673.000" style="text-anchor: middle;">ROAD PRICING</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0032" y="6609.000" style="text-anchor: middle;">PF31</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0033" y="6805.000" style="text-anchor: middle;">5.0 Amps</text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 6173,4534 6225"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 6225,4534 6173"/>
+<text x="4428.000" font-size="48.0" id="TXT_NA_0034" y="6146.000" style="text-anchor: middle;">KVM LOGIC</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0035" y="6082.000" style="text-anchor: middle;">PF29</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0036" y="6278.000" style="text-anchor: middle;">5.0 Amps</text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 6436,4534 6489"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 6489,4534 6436"/>
+<text x="4428.000" font-size="48.0" id="TXT_NA_0037" y="6410.000" style="text-anchor: middle;">KVM LATCH</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0038" y="6345.000" style="text-anchor: middle;">PF30</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0039" y="6542.000" style="text-anchor: middle;">20.0 Amps</text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 6963,4534 7016"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 7016,4534 6963"/>
+<text x="4428.000" font-size="48.0" id="TXT_NA_0040" y="6937.000" style="text-anchor: middle;">TPMS</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0041" y="6872.000" style="text-anchor: middle;">PF32</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0042" y="7069.000" style="text-anchor: middle;">5.0 Amps</text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 7227,4534 7280"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 7280,4534 7227"/>
+<text x="4428.000" font-size="48.0" id="TXT_NA_0043" y="7201.000" style="text-anchor: middle;">HEVAC CLUTCH</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0044" y="7136.000" style="text-anchor: middle;">PF33</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0045" y="7332.000" style="text-anchor: middle;">15.0 Amps</text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 7491,4534 7543"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 7543,4534 7491"/>
+<text x="4428.000" font-size="48.0" id="TXT_NA_0046" y="7464.000" style="text-anchor: middle;">RHF DOOR MODULE</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0047" y="7400.000" style="text-anchor: middle;">PF22</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0048" y="7596.000" style="text-anchor: middle;">25.0 Amps</text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 7754,4534 7807"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 7807,4534 7754"/>
+<text x="4428.000" font-size="48.0" id="TXT_NA_0049" y="7728.000" style="text-anchor: middle;">LHR DOOR MODULE</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0050" y="7663.000" style="text-anchor: middle;">PF23</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0051" y="7860.000" style="text-anchor: middle;">25.0 Amps</text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 3800,4534 3853"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 3853,4534 3800"/>
+<text x="4428.000" font-size="48.0" id="TXT_NA_0052" y="3774.000" style="text-anchor: middle;">HEATED/CLIMATE SEAT</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0053" y="3709.000" style="text-anchor: middle;">PF21</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0054" y="3906.000" style="text-anchor: middle;">20.0 Amps</text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 4064,4534 4117"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 4117,4534 4064"/>
+<text x="4428.000" font-size="48.0" id="TXT_NA_0055" y="4038.000" style="text-anchor: middle;">VICS</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0056" y="3973.000" style="text-anchor: middle;">PF26</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0057" y="4169.000" style="text-anchor: middle;">2.0 Amps</text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 4327,4534 4380"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 4380,4534 4327"/>
+<text x="4428.000" font-size="48.0" id="TXT_NA_0058" y="4301.000" style="text-anchor: middle;">SPARE</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0059" y="4237.000" style="text-anchor: middle;">PF27</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0060" y="4433.000" style="text-anchor: middle;">5.0 Amps</text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4327 4855,4538 4907"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4327 4907,4538 4855"/>
+<text x="4433.000" font-size="48.0" id="TXT_NA_0061" y="4828.000" style="text-anchor: middle;">RFR</text>
+<text x="4433.000" font-size="38.0" id="TXT_NA_0062" y="4764.000" style="text-anchor: middle;">PF17</text>
+<text x="4433.000" font-size="38.0" id="TXT_NA_0063" y="4960.000" style="text-anchor: middle;">5.0 Amps</text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 5118,4534 5171"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4323 5171,4534 5118"/>
+<text x="4428.000" font-size="48.0" id="TXT_NA_0064" y="5092.000" style="text-anchor: middle;">SPARE</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0065" y="5027.000" style="text-anchor: middle;">PF15</text>
+<text x="4428.000" font-size="38.0" id="TXT_NA_0066" y="5224.000" style="text-anchor: middle;">5.0 Amps</text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4327 4591,4538 4644"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4327 4644,4538 4591"/>
+<text x="4433.000" font-size="48.0" id="TXT_NA_0067" y="4565.000" style="text-anchor: middle;">HEATED STEERING WHEEL</text>
+<text x="4433.000" font-size="38.0" id="TXT_NA_0068" y="4500.000" style="text-anchor: middle;">PF28</text>
+<text x="4433.000" font-size="38.0" id="TXT_NA_0069" y="4696.000" style="text-anchor: middle;">10.0 Amps</text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4327 3537,4538 3589"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4327 3589,4538 3537"/>
+<text x="4433.000" font-size="48.0" id="TXT_NA_0070" y="3510.000" style="text-anchor: middle;">HEATED/CLIMATE SEAT</text>
+<text x="4433.000" font-size="38.0" id="TXT_NA_0071" y="3446.000" style="text-anchor: middle;">PF20</text>
+<text x="4433.000" font-size="38.0" id="TXT_NA_0072" y="3642.000" style="text-anchor: middle;">20.0 Amps</text>
+<polygon style="fill: none; stroke: #000000; stroke-width: 4;" points="4415 3102,4415 2812,4600 2812,4600 3102"/>
+<polygon style="fill: none; stroke: #000000; stroke-width: 4;" points="4488 3062,4488 3009,4527 3009,4527 3062"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4488 3036,4468 3036"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4527 3036,4547 3036"/>
+<polygon style="fill: none; stroke: #000000; stroke-width: 4;" points="4464 2919,4546 2878,4551 2889,4470 2930"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="4508 2957,4508 3001"/>
+<text font-size="57.6" id="COMPML_R284_0073" y="2717.000" style="text-anchor: middle; font-weight: bold;">
+	<title>Relay-Extended ignition</title>
+	<tspan x="4508.000" dy="0">Relay-Extended</tspan>
+	<tspan x="4508.000" dy="55.000">ignition</tspan>
+</text>
+<text x="4508.000" font-size="38.0" id="TXT_NA_0074" y="3181.000" style="text-anchor: middle;">40.0 Amps</text>
+<text font-size="38.0" id="TXT_NA_0075" y="3284.000" style="text-anchor: middle;">
+	<tspan x="4508.000" dy="0">POWER</tspan>
+	<tspan x="4508.000" dy="-44.000">PR02</tspan>
+</text>
+<polygon style="fill: none; stroke: #000000; stroke-width: 13;" points="268 2350,268 2034,584 2034,584 2350"/>
+<text x="253.000" font-size="81.6" id="COMPSL_P147_0076" y="2008.000" style="font-weight: bold;">Junction box-Battery<title>Junction box-Battery</title></text>
+<circle r="42" style="fill: none; stroke: #000000; stroke-width: 4;" cx="9789" cy="3247"/>
+<circle r="21" style="fill: none; stroke: #000000; stroke-width: 4;" cx="9789" cy="3247"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="9753 3226,9726 3226,9726 3268,9753 3268"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="9705 3247,9726 3247"/>
+<text x="9784.000" font-size="55.0" id="TXT_NA_0077" y="3352.000" style="text-anchor: middle;">(CC)</text>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="6851 2350,6832 2350"/>
+<polyline style="fill: none; stroke: #000000; stroke-width: 4;" points="6759 2350,6779 2350"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M6814,2385 A35,35 0 0,1 6814,2315"/>
+<circle r="17" style="fill: none; stroke: #000000; stroke-width: 4;" cx="6814" cy="2350"/>
+
+
+<polygon style="fill: none;stroke-dasharray:100 50; stroke: #000000; stroke-width: 13;" points="8545 2825,8545 2614,9705 2614,9705 2825"/>
+<text font-size="81.6" id="COMPML_D718_0079" y="2508.000" style="font-weight: bold;">
+	<title>Assembly-BCM-GWM</title>
+	<tspan x="8530.000" dy="0">Assembly-</tspan>
+	<tspan x="8530.000" dy="80.000">BCM-GWM</tspan>
+</text>
+<polygon style="fill: none;stroke-dasharray:100 50; stroke: #000000; stroke-width: 13;" points="8545 2245,8545 2034,9336 2034,9336 2245"/>
+<text font-size="81.6" id="COMPML_P178_0080" y="1929.000" style="font-weight: bold;">
+	<title>Junction box-Engine-Front</title>
+	<tspan x="8530.000" dy="0">Junction box-</tspan>
+	<tspan x="8530.000" dy="79.000">Engine-Front</tspan>
+</text>
+<circle r="24" style="fill: #000000;; stroke: #000000; stroke-width: 4;" cx="2113" cy="7517"/>
+
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="3664" cy="7781"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M3664,7807 A26,26 0 0,1 3664,7755"/>
+
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4323" cy="7781"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4534" cy="7781"/>
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="5720" cy="7781"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M5720,7807 A26,26 0 0,0 5720,7755"/>
+
+<text x="5298.000" font-size="55.0" id="TXT_NA_0084" y="7728.000" style="text-anchor: middle;">RL AJAR SW</text>
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="5720" cy="6463"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M5720,6489 A26,26 0 0,0 5720,6437"/>
+
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="5720" cy="6990"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M5720,7016 A26,26 0 0,0 5720,6964"/>
+
+<text x="5118.000" font-size="55.0" id="TXT_NA_0087" y="6937.000" style="text-anchor: middle;">RF REC &amp; INT MOTION SSR, TPMS RX</text>
+<circle r="18" style="fill: #000000;; stroke: #000000; stroke-width: 4;" cx="3958" cy="6990"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4323" cy="6990"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4534" cy="6990"/>
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="3664" cy="7517"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M3664,7543 A26,26 0 0,1 3664,7491"/>
+
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4323" cy="7517"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4534" cy="7517"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4323" cy="7253"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4534" cy="7253"/>
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="3664" cy="6726"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M3664,6752 A26,26 0 0,1 3664,6700"/>
+
+<circle r="18" style="fill: #000000;; stroke: #000000; stroke-width: 4;" cx="3958" cy="6726"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4323" cy="6726"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4534" cy="6726"/>
+<circle r="18" style="fill: #000000;; stroke: #000000; stroke-width: 4;" cx="3958" cy="6463"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4323" cy="6463"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4534" cy="6463"/>
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="5724" cy="7517"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M5724,7543 A26,26 0 0,0 5724,7491"/>
+
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="5720" cy="7253"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M5720,7279 A26,26 0 0,0 5720,7227"/>
+
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="5720" cy="6726"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M5720,6752 A26,26 0 0,0 5720,6700"/>
+
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4323" cy="6199"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4534" cy="6199"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4323" cy="5935"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4534" cy="5935"/>
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="3668" cy="5408"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M3668,5434 A26,26 0 0,1 3668,5382"/>
+
+<circle r="13" style="fill: #000000;; stroke: #000000; stroke-width: 4;" cx="3958" cy="5672"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4323" cy="5672"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4534" cy="5672"/>
+<circle r="13" style="fill: #000000;; stroke: #000000; stroke-width: 4;" cx="3958" cy="5408"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4323" cy="5408"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4534" cy="5408"/>
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="5720" cy="6199"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M5720,6225 A26,26 0 0,0 5720,6173"/>
+
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="5720" cy="5935"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M5720,5961 A26,26 0 0,0 5720,5909"/>
+
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="5720" cy="5672"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M5720,5698 A26,26 0 0,0 5720,5646"/>
+
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="5724" cy="5408"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M5724,5434 A26,26 0 0,0 5724,5382"/>
+
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="3664" cy="2930"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M3664,2956 A26,26 0 0,1 3664,2904"/>
+
+<circle r="24" style="fill: #000000;; stroke: #000000; stroke-width: 4;" cx="2113" cy="3563"/>
+
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="3664" cy="4090"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M3664,4116 A26,26 0 0,1 3664,4064"/>
+
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="5720" cy="4090"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M5720,4116 A26,26 0 0,0 5720,4064"/>
+
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4323" cy="4090"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4534" cy="4090"/>
+<circle r="13" style="fill: #000000;; stroke: #000000; stroke-width: 4;" cx="3958" cy="5145"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4323" cy="5145"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4534" cy="5145"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4327" cy="4881"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4538" cy="4881"/>
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="3664" cy="4354"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M3664,4380 A26,26 0 0,1 3664,4328"/>
+
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="3668" cy="4617"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M3668,4643 A26,26 0 0,1 3668,4591"/>
+
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4323" cy="4354"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4534" cy="4354"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4327" cy="4617"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4538" cy="4617"/>
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="5720" cy="5145"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M5720,5171 A26,26 0 0,0 5720,5119"/>
+
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="5724" cy="4881"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M5724,4907 A26,26 0 0,0 5724,4855"/>
+
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="5720" cy="4354"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M5720,4380 A26,26 0 0,0 5720,4328"/>
+
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="5724" cy="4617"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M5724,4643 A26,26 0 0,0 5724,4591"/>
+
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="3664" cy="3563"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M3664,3589 A26,26 0 0,1 3664,3537"/>
+
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="3664" cy="3827"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M3664,3853 A26,26 0 0,1 3664,3801"/>
+
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4323" cy="3827"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4534" cy="3827"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4327" cy="3563"/>
+<circle r="26" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4538" cy="3563"/>
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="3668" cy="3299"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M3668,3325 A26,26 0 0,1 3668,3273"/>
+
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4455" cy="3036"/>
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4560" cy="3036"/>
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4455" cy="2930"/>
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4560" cy="2983"/>
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="5720" cy="3563"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M5720,3589 A26,26 0 0,0 5720,3537"/>
+
+<text x="5298.000" font-size="55.0" id="TXT_NA_0112" y="3510.000" style="text-anchor: middle;">BF66</text>
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="5720" cy="3827"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M5720,3853 A26,26 0 0,0 5720,3801"/>
+
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="5724" cy="3247"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M5724,3273 A26,26 0 0,0 5724,3221"/>
+
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="5751" cy="3036"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M5751,3062 A26,26 0 0,0 5751,3010"/>
+
+<circle r="24" style="fill: #000000;; stroke: #000000; stroke-width: 4;" cx="742" cy="2508"/>
+
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="611" cy="2192"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M611,2218 A26,26 0 0,0 611,2166"/>
+
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="4560" cy="2878"/>
+<circle r="7" style="fill: #000000;; stroke: #000000; stroke-width: 4;" cx="9705" cy="3247"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M9705,3260 A13,13 0 0,0 9705,3234"/>
+
+<circle r="26" style="fill: #000000;; stroke: #000000; stroke-width: 4;" cx="7121" cy="2719"/>
+
+<circle r="7" style="fill: none; stroke: #000000; stroke-width: 4;" cx="6752" cy="2350"/>
+<circle r="7" style="fill: none; stroke: #000000; stroke-width: 4;" cx="6858" cy="2350"/>
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="8519" cy="2719"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M8519,2745 A26,26 0 0,1 8519,2693"/>
+
+<text x="9099.000" font-size="55.0" id="TXT_NA_0121" y="2719.000" style="text-anchor: middle;">O_EXTENDED_IGNITION_CONTROL_2</text>
+<circle r="13" style="fill: none; stroke: #000000; stroke-width: 4;" cx="8519" cy="2140"/>
+<path style="fill: none; stroke: #000000; stroke-width: 4;" d="M8519,2166 A26,26 0 0,1 8519,2114"/>
+
+
+</g><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #03dbef" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3638 3563,2137 3563" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #03dbef" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3638 3563,2137 3563" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3690 3563,4301 3563" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3690 3563,4301 3563" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4442 2930,3690 2930" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4442 2930,3690 2930" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4508 2957,4508 3001" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4508 2957,4508 3001" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3690 3827,4297 3827" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3690 3827,4297 3827" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4488 3036,4468 3036" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4488 3036,4468 3036" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4527 3036,4547 3036" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4527 3036,4547 3036" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3690 4090,4297 4090" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3690 4090,4297 4090" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4327 3537,4538 3589" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4327 3537,4538 3589" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4327 3589,4538 3537" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4327 3589,4538 3537" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3690 4354,4297 4354" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3690 4354,4297 4354" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 3800,4534 3853" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 3800,4534 3853" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4565 3563,5694 3563" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4565 3563,5694 3563" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 3853,4534 3800" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 3853,4534 3800" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3695 4617,4301 4617" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3695 4617,4301 4617" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 3827,5694 3827" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 3827,5694 3827" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 4064,4534 4117" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 4064,4534 4117" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 4117,4534 4064" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 4117,4534 4064" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 4090,5694 4090" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 4090,5694 4090" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 4327,4534 4380" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 4327,4534 4380" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 4380,4534 4327" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 4380,4534 4327" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 4354,5694 4354" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 4354,5694 4354" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4327 4591,4538 4644" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4327 4591,4538 4644" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4327 4644,4538 4591" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4327 4644,4538 4591" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3695 5408,3945 5408" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3695 5408,3945 5408" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="6759 2350,6779 2350" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="6759 2350,6779 2350" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3958 5158,3958 5395" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3958 5158,3958 5395" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4565 4617,5698 4617" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4565 4617,5698 4617" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4327 4855,4538 4907" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4327 4855,4538 4907" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="6851 2350,6832 2350" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="6851 2350,6832 2350" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4327 4907,4538 4855" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4327 4907,4538 4855" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3958 5421,3958 5658" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3958 5421,3958 5658" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 5118,4534 5171" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 5118,4534 5171" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4297 5145,3972 5145" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4297 5145,3972 5145" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4565 4881,5698 4881" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4565 4881,5698 4881" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 5171,4534 5118" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 5171,4534 5118" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 5145,5694 5145" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 5145,5694 5145" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 5382,4534 5434" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 5382,4534 5434" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4297 5408,3972 5408" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4297 5408,3972 5408" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 5434,4534 5382" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 5434,4534 5382" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 38; stroke: #81abc2" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="7148 2719,8492 2719" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 38; stroke: #81abc2" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="7148 2719,8492 2719" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 5408,5698 5408" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 5408,5698 5408" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 5645,4534 5698" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 5645,4534 5698" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4297 5672,3972 5672" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4297 5672,3972 5672" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 5698,4534 5645" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 5698,4534 5645" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 5672,5694 5672" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 5672,5694 5672" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 5909,4534 5962" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 5909,4534 5962" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 5962,4534 5909" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 5962,4534 5909" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3690 6726,3940 6726" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3690 6726,3940 6726" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 5935,5694 5935" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 5935,5694 5935" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 6173,4534 6225" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 6173,4534 6225" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 6225,4534 6173" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 6225,4534 6173" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3958 6708,3958 6481" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3958 6708,3958 6481" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3958 6745,3958 6971" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3958 6745,3958 6971" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 6199,5694 6199" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 6199,5694 6199" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 6436,4534 6489" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 6436,4534 6489" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4297 6463,3977 6463" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4297 6463,3977 6463" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 6489,4534 6436" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 6489,4534 6436" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 6463,5694 6463" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 6463,5694 6463" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 6700,4534 6752" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 6700,4534 6752" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4297 6726,3977 6726" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4297 6726,3977 6726" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 6752,4534 6700" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 6752,4534 6700" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #03dbef" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3638 7517,2137 7517" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #03dbef" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3638 7517,2137 7517" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3690 7517,4297 7517" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3690 7517,4297 7517" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 6726,5694 6726" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 6726,5694 6726" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 6963,4534 7016" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 6963,4534 7016" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4297 6990,3977 6990" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4297 6990,3977 6990" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 7016,4534 6963" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 7016,4534 6963" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3690 7781,4297 7781" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3690 7781,4297 7781" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 6990,5694 6990" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 6990,5694 6990" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 7227,4534 7280" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 7227,4534 7280" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 7280,4534 7227" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 7280,4534 7227" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 7253,5694 7253" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 7253,5694 7253" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 7491,4534 7543" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 7491,4534 7543" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 7543,4534 7491" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 7543,4534 7491" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 7517,5698 7517" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 7517,5698 7517" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 7754,4534 7807" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 7754,4534 7807" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 7807,4534 7754" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4323 7807,4534 7754" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 7781,5694 7781" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4560 7781,5694 7781" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="9692 3247,5751 3247" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="9692 3247,5751 3247" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="9705 3247,9726 3247" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="9705 3247,9726 3247" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #6b28e8" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3638 2930,953 2930,753 2530" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #6b28e8" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3638 2930,953 2930,753 2530" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #6b28e8" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3642 3299,2113 3299,2113 3539" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #6b28e8" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3642 3299,2113 3299,2113 3539" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #03dbef" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3638 3827,2271 3827,2125 3583" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #03dbef" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3638 3827,2271 3827,2125 3583" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #03dbef" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3638 4090,2271 4090,2120 3586" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #03dbef" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3638 4090,2271 4090,2120 3586" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #03dbef" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3638 4354,2219 4354,2116 3587" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #03dbef" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3638 4354,2219 4354,2116 3587" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #03dbef" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3642 4617,2113 4617,2113 3587" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #03dbef" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3642 4617,2113 4617,2113 3587" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4301 4881,3958 4881,3958 5131" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4301 4881,3958 4881,3958 5131" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #03dbef" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="2113 7493,2113 6726,3638 6726" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #03dbef" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="2113 7493,2113 6726,3638 6726" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 38; stroke: #81abc2" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="7121 2746,7121 3036,5777 3036" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 38; stroke: #81abc2" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="7121 2746,7121 3036,5777 3036" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4297 5935,3958 5935,3958 5685" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4297 5935,3958 5935,3958 5685" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4297 6199,3958 6199,3958 6444" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4297 6199,3958 6199,3958 6444" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #03dbef" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3638 7781,2113 7781,2113 7541" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #03dbef" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3638 7781,2113 7781,2113 7541" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4297 7253,3958 7253,3958 7008" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4297 7253,3958 7253,3958 7008" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #d04ddf" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="637 2192,2060 2192,2060 2508,766 2508" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #d04ddf" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="637 2192,2060 2192,2060 2508,766 2508" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #03dbef" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="719 2508,268 2508,268 7517,2089 7517" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #03dbef" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="719 2508,268 2508,268 7517,2089 7517" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4573 2983,4749 2983,4749 3299,3695 3299" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4573 2983,4749 2983,4749 3299,3695 3299" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4573 3036,4908 3036,4907 3247,5698 3247" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="4573 3036,4908 3036,4907 3247,5698 3247" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #03dbef" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3642 5408,742 5408,742 2930,742 2532" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 34; stroke: #03dbef" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="3642 5408,742 5408,742 2930,742 2532" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 38; stroke: #81abc2" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="8492 2140,6331 2140,6331 2350,6746 2350" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 38; stroke: #81abc2" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="8492 2140,6331 2140,6331 2350,6746 2350" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="9753 3226,9726 3226,9726 3268,9753 3268" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 4; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="9753 3226,9726 3226,9726 3268,9753 3268" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="5724 3036,5276 3036,5276 2588,4112 2588,4112 3036,4442 3036" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 6; stroke: #ff0000" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="5724 3036,5276 3036,5276 2588,4112 2588,4112 3036,4442 3036" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="fill: none; stroke-dasharray: 100; stroke-width: 38; stroke: #81abc2" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="6865 2350,8123 2350,8123 2561,6331 2561,6331 2719,7095 2719" opacity="0"/><polyline onmouseout="evt.target.setAttribute(&apos;opacity&apos;, &apos;0&apos;)" style="stroke-dashoffset: 100;fill: none; stroke-dasharray: 100; stroke-width: 38; stroke: #81abc2" onmouseover="evt.target.setAttribute(&apos;opacity&apos;, &apos;1&apos;)" points="6865 2350,8123 2350,8123 2561,6331 2561,6331 2719,7095 2719" opacity="0"/></g><script type="text/javascript"><![CDATA[/* jshint es3:true */
+// Ensure that if undefined has been re-assigned by some other function, this will not adversely affect our code.
+(function(undefined) {
+    var root = this;
+    var ewd = root.ewd = {};
+    var ewdMatrix, dragBox, staticContent, viewBox, electricalWiringDiagram;
+    var DOUBLE_CLICK_DELAY = 700, mouseClicks = 0, mouseClickResetTimer;
+
+    // The percentage width the electrical wiring diagram should default to.
+    var ewdDefaultZoom = 0.99;
+
+    // The transformation matrix used to manipulate the electrical wiring
+    // diagram.
+    var transMatrix = [ 1, 0, 0, 1, 0, 0 ];
+
+    // The current coordinates of the user's pointer.
+    var currentX = 0, currentY = 0;
+
+    // Called by the SVG when loaded on its own.
+    ewd.init = function(evt) {
+        var svgDoc;
+        if (window.svgDocument === undefined) {
+            svgDoc = evt.target.ownerDocument;
+        } else {
+            svgDoc = window.svgDocument;
+        }
+        try {
+            // try to stop it by appending an empty handler
+            svgDoc.oncontextmenu = ewd.nullEvent;
+        } catch (e) {
+            // ASV doesn't support this event
+        }
+        ewdMatrix = svgDoc.getElementById("ewdmatrix");
+        dragBox = svgDoc.getElementById("dragbox");
+        dragBox.addEventListener('mousedown', ewd.selectElement, false);
+        staticContent = svgDoc.getElementById("static-content");
+        electricalWiringDiagram = evt.target;
+        viewBox = evt.target.getAttributeNS(null, "viewBox").split(" ");
+        ewd.focusOnElement(ewdMatrix, ewdDefaultZoom);
+        ewd.highlightSearchTerm(urlParam("searchTerm"), true);
+        svgDoc.rootElement.addEventListener('keydown', ewd.keyboardPanning, false);
+    };
+
+    ewd.updateClientCoords = function(clientX, clientY) {
+        currentX = clientX;
+        currentY = clientY;
+    };
+
+    ewd.nullEvent = function(evt) {
+        if (evt.preventDefault) {
+            evt.preventDefault();
+        }
+        if (evt.stopPropagation) {
+            evt.stopPropagation();
+        }
+    };
+
+    ewd.keyboardPanning = function(evt) {
+        if (!evt) {
+            evt = window.event;
+        }
+        var code = evt.keyCode;
+        if (evt.charCode && code === 0) {
+            code = evt.charCode;
+        }
+        switch (code) {
+        case 37:
+            ewd.pan(200, 0);
+            break;
+        case 38:
+            ewd.pan(0, 200);
+            break;
+        case 39:
+            ewd.pan(-200, 0);
+            break;
+        case 40:
+            ewd.pan(0, -200);
+            break;
+        }
+        evt.preventDefault();
+    };
+
+    // Place a bounding highlighting rectangle behind elements with an class that
+    // matches the given searchTerm and scale the viewport to surround the first
+    // match if zoomToMatch is set.
+    ewd.highlightSearchTerm = function(searchTerm, zoomToMatch) {
+        if (searchTerm) {
+            ewd.removeAllHighlights();
+            var matchingElements = electricalWiringDiagram.getElementsByTagNameNS("http://www.w3.org/2000/svg", "a"), i, len;
+            var smallestXCoordinate = Number.MAX_VALUE, smallestYCoordinate = Number.MAX_VALUE, largestXCoordinate = 0, largestYCoordinate = 0;
+            var hasMatchingElements = false;
+            for (i = 0, len = matchingElements.length; i < len; i++) {
+                var matchingElement = matchingElements.item(i);
+                if (matchingElement.getAttributeNS(null, "class") == searchTerm) {
+                    hasMatchingElements = true;
+                    var matchingElementBoundingBox = matchingElement.getBBox();
+
+                    if (smallestXCoordinate === 0 || smallestXCoordinate > matchingElementBoundingBox.x) {
+                        smallestXCoordinate = matchingElementBoundingBox.x;
+                    }
+                    if (smallestYCoordinate === 0 || smallestYCoordinate > matchingElementBoundingBox.y) {
+                        smallestYCoordinate = matchingElementBoundingBox.y;
+                    }
+                    if (largestXCoordinate === 0 || largestXCoordinate < matchingElementBoundingBox.x) {
+                        largestXCoordinate = matchingElementBoundingBox.x + matchingElementBoundingBox.width;
+                    }
+                    if (largestYCoordinate === 0 || largestYCoordinate < matchingElementBoundingBox.y) {
+                        largestYCoordinate = matchingElementBoundingBox.y + matchingElementBoundingBox.height;
+                    }
+                    var highlightRectangle = document.createElementNS("http://www.w3.org/2000/svg", "rect");
+                    highlightRectangle.setAttribute("x", matchingElementBoundingBox.x);
+                    highlightRectangle.setAttribute("y", matchingElementBoundingBox.y);
+                    highlightRectangle.setAttribute("width", matchingElementBoundingBox.width);
+                    highlightRectangle.setAttribute("height", matchingElementBoundingBox.height);
+                    highlightRectangle.setAttribute("class", "highlight");
+                    // Ensure the highlight rectangle sits behind the highlighted
+                    // element.
+                    ewdMatrix.insertBefore(highlightRectangle, matchingElement);
+                }
+            }
+
+            var focusRectangle = document.createElementNS("http://www.w3.org/2000/svg", "rect");
+            focusRectangle.setAttribute("x", smallestXCoordinate);
+            focusRectangle.setAttribute("y", smallestYCoordinate);
+            focusRectangle.setAttribute("width", largestXCoordinate - smallestXCoordinate);
+            focusRectangle.setAttribute("height", largestYCoordinate - smallestYCoordinate);
+
+            ewdMatrix.appendChild(focusRectangle);
+            if (zoomToMatch && hasMatchingElements) {
+                // Focus on the rectangle formed around all the matching elements.
+                ewd.focusOnElement(focusRectangle, (1 / 6));
+                zoomToMatch = false;
+            }
+            ewdMatrix.removeChild(focusRectangle);
+        }
+    };
+
+    // Find all highlight rectangles within the SVG and remove them.
+    ewd.removeAllHighlights = function() {
+        var matchingElements = electricalWiringDiagram.getElementsByTagNameNS("http://www.w3.org/2000/svg", "rect"), i, len;
+        var highlights = [];
+        // Identify highlight rectangles and store them in a non-transitive array.
+        for (i = 0, len = matchingElements.length; i < len; i++) {
+            var rectangle = matchingElements.item(i);
+            if (rectangle.getAttributeNS(null, "class") == "highlight") {
+                highlights.push(rectangle);
+            }
+        }
+        // Remove the previously identified highlight rectangles.
+        for (i = 0, len = highlights.length; i < len; i++) {
+            ewdMatrix.removeChild(highlights[i]);
+        }
+    };
+
+    // Move and zoom the EWD to focus on the given element.
+    ewd.focusOnElement = function(element, percentageWidth) {
+        var elementBoundingBox = element.getBBox();
+        // Reset zoom level.
+        transMatrix[0] = 1;
+        transMatrix[3] = 1;
+        // Move the element to the centre of the viewport.
+        transMatrix[4] = (parseFloat(viewBox[2]) / 2) - (elementBoundingBox.x + (elementBoundingBox.width / 2));
+        transMatrix[5] = (parseFloat(viewBox[3]) / 2) - (elementBoundingBox.y + (elementBoundingBox.height / 2));
+        // Scale the element such that it takes up the given percentage width of the viewport.
+
+        var width = elementBoundingBox.width + elementBoundingBox.x;
+        var height = elementBoundingBox.height + elementBoundingBox.y;
+
+        var scale = 0;
+        if (height > width) {
+            scale = (parseFloat(viewBox[3]) * percentageWidth) / elementBoundingBox.height;
+        } else {
+            scale = (parseFloat(viewBox[2]) * percentageWidth) / elementBoundingBox.width;
+        }
+        // Reset zoom if the script wants to zoom out too far.
+        if (scale > 0.99 ) {
+            ewd.zoom(scale);
+        } else {
+            ewd.reset();
+        }
+    };
+
+    // Move the viewport by the given x and y coordinate distances.
+    ewd.pan = function(dx, dy) {
+        transMatrix[4] += dx;
+        transMatrix[5] += dy;
+        updateMatrix();
+    };
+
+    // Reset the EWD view to the default zoom level.
+    ewd.reset = function() {
+        ewd.focusOnElement(ewdMatrix, ewdDefaultZoom);
+    };
+
+    // Zoom in towards the centre of the viewport by the given scale.
+    ewd.zoom = function(scale) {
+        scaleTransformationMatrix(scale);
+        transMatrix[4] += (1 - scale) * (parseFloat(viewBox[2]) / 2);
+        transMatrix[5] += (1 - scale) * (parseFloat(viewBox[3]) / 2);
+        updateMatrix();
+    };
+
+    // Zoom in towards the centre of the pinch (as best we can calculate) relative to the rate at which the user is pinching.
+    ewd.pinchZoom = function(originalScale, dx, dy, scale) {
+        // Update the zoom level based on the original scale at which the pinch started.
+        transMatrix[0] = parseFloat(originalScale) * scale;
+        transMatrix[3] = parseFloat(originalScale) * scale;
+        // Zoom from the given client coordinates.
+        var elementBoundingBox = ewdMatrix.getBBox();
+        transMatrix[4] = parseFloat(dx) + ((1 - scale) * (calculateTranslationXFactor(elementBoundingBox.width, currentX) * parseFloat(originalScale)));
+        transMatrix[5] = parseFloat(dy) + ((1 - scale) * (calculateTranslationYFactor(elementBoundingBox.height, currentY) * parseFloat(originalScale)));
+        // Apply the updates to the view.
+        updateMatrix();
+    };
+
+    // Called when the user mouseClicks on the EWD to move it.
+    ewd.selectElement = function(evt) {
+        ewd.updateClientCoords(evt.clientX, evt.clientY);
+
+        // Bring the background drag box to the front.
+        electricalWiringDiagram.appendChild(dragBox);
+
+        // Bind mouse movement to control the EWD viewport.
+        evt.target.addEventListener('mousemove', ewd.moveElement, false);
+
+        // Ensure the drag box is ready for use again when mouse is release.
+        evt.target.addEventListener('mouseout', ewd.deselectElement, false);
+        evt.target.addEventListener('mouseup', ewd.deselectElement, false);
+    };
+
+    // Called when the user moves the EWD.
+    ewd.moveElement = function(evt) {
+        // Convert the user's mouse coordinates into EWD coordinates.
+        var dx = calculateTranslationXFactor(parseFloat(viewBox[2]), (evt.clientX - currentX));
+        var dy = calculateTranslationYFactor(parseFloat(viewBox[3]), (evt.clientY - currentY));
+
+        // Pan the view in scale with user's mouse movement.
+        ewd.pan(dx, dy);
+
+        // Record the user's new mouse position.
+        ewd.updateClientCoords(evt.clientX, evt.clientY);
+    };
+
+    // Called when the user releases the mouse after moving the EWD.
+    ewd.deselectElement = function(evt) {
+        // Ready the drag box to be used again.
+        evt.target.removeEventListener('mousemove', ewd.moveElement, false);
+        evt.target.removeEventListener('mouseout', ewd.deselectElement, false);
+        evt.target.removeEventListener('mouseup', ewd.deselectElement, false);
+
+        // Shuffle the elements back into their default order.
+        electricalWiringDiagram.appendChild(ewdMatrix);
+        electricalWiringDiagram.appendChild(staticContent);
+
+        // Handle the fact this might be the end of a double click event.
+        return parseClickEvent(evt);
+    };
+
+    // Resets the number of recorded consecutive mouse mouseClicks.
+    ewd.resetMouseClickCount = function() {
+        mouseClicks = 0;
+    };
+
+    // Add a log message into the SVG - should not be used within production
+    // SVGs.
+    ewd.log = function(message) {
+        var messageElement = document.createElementNS("http://www.w3.org/2000/svg", 'text');
+        messageElement.setAttribute("id", "logmessage");
+        messageElement.setAttribute("x", "20");
+        messageElement.setAttribute("y", "20");
+        messageElement.setAttribute("font-size", "36");
+        messageElement.appendChild(document.createTextNode(message));
+        if (electricalWiringDiagram.getElementById('logmessage') === null) {
+            electricalWiringDiagram.appendChild(messageElement);
+        } else {
+            electricalWiringDiagram.replaceChild(messageElement, electricalWiringDiagram.getElementById('logmessage'));
+        }
+    };
+
+    // Update the EWD viewport zoom and position.
+    function updateMatrix() {
+        var newMatrix = "matrix(" + transMatrix.join(' ') + ")";
+        ewdMatrix.setAttributeNS(null, "transform", newMatrix);
+    }
+
+    // Work out whether the click event represents a double or single click and
+    // adjust the zoom accordingly.
+    function parseClickEvent(evt) {
+        mouseClicks++;
+        if (mouseClicks === 1) {
+            // This is a single click, set a timeout to reset the count after a
+            // delay.
+            // WONTFIX the implied eval() is required to work with the IE8 Adobe
+            // SVG Viewer plugin.
+            mouseClickResetTimer = setTimeout("ewd.resetMouseClickCount();", DOUBLE_CLICK_DELAY);
+        } else {
+            // This is at least a double click, stop the timeout from resetting the
+            // mouse click count.
+            clearTimeout(mouseClickResetTimer);
+            // Handle the double click of a left or right mouse button.
+            switch (evt.button) {
+            case 0:
+                zoomToPoint(1.2, evt.clientX, evt.clientY);
+                break;
+            case 2:
+                zoomToPoint(0.8, evt.clientX, evt.clientY);
+                break;
+            }
+            // Now we've dealt with the click event, reset the mouse click count.
+            ewd.resetMouseClickCount();
+        }
+    }
+
+    // Zoom in towards a given point on the viewport by the given scale.
+    function zoomToPoint(scale, clientX, clientY) {
+        scaleTransformationMatrix(scale);
+        // Move the viewport to the client coordinates.
+        transMatrix[4] += (1 - scale) * calculateTranslationXFactor(parseFloat(viewBox[2]), clientX);
+        transMatrix[5] += (1 - scale) * calculateTranslationYFactor(parseFloat(viewBox[3]), clientY);
+        updateMatrix();
+    }
+
+    // Scale the transformation matrix.
+    function scaleTransformationMatrix(scale) {
+        var matrixPosition;
+        for (matrixPosition in transMatrix) {
+            if (transMatrix.hasOwnProperty(matrixPosition)) {
+                transMatrix[matrixPosition] *= scale;
+            }
+        }
+    }
+
+    // Return the distance required to translate the x-axis in the SVG scale.
+    function calculateTranslationXFactor(viewBoxX, clientX) {
+        var translationXFactor = clientX * (viewBoxX / window.innerWidth);
+        if (window.document.getElementById('electrical-wiring-diagram') !== null) {
+            translationXFactor = clientX * (viewBoxX / window.parent.document.getElementById('electrical-wiring-diagram').offsetWidth);
+        }
+        return translationXFactor;
+    }
+
+    // Return the distance required to translate the y-axis in the SVG scale.
+    function calculateTranslationYFactor(viewBoxY, clientY) {
+        var translationYFactor = clientY * (viewBoxY / window.innerHeight);
+        if (window.document.getElementById('electrical-wiring-diagram') !== null) {
+            translationYFactor = clientY * (viewBoxY / window.parent.document.getElementById('electrical-wiring-diagram').offsetHeight);
+        }
+        return translationYFactor;
+    }
+
+    // Return the first value of the given parameter from the URL or null if the
+    // parameter is not set.
+    function urlParam(parameter) {
+        var parameters = new RegExp('[\\?&]' + parameter + '=([^&#]*)').exec(window.parent.location.href);
+        return parameters !== null ? (parameters[1] || null) : null;
+    }
+})();
+]]></script><g id="static-content"><text x="1.0" font-size="65.51681" id="headerText" y="66.51681" class="headerText">414-01 - BATTERY, MOUNTING AND CABLES --- EJLR 02 08 21_1E - XE iEWD (LHD) (1a) --- (2 / 2)</text><g id="navigation" transform="translate(10080.0,6452.5) scale(2.2424924)"><filter xlink:actuate="onLoad" xlink:type="simple" height="120%" id="dropshadow" xlink:show="other" xmlns:xlink="http://www.w3.org/1999/xlink"><feOffset dx="0" dy="1" result="offOut" in="SourceGraphic"/><feColorMatrix values="0.298039 0 0 0 0 0 0.298039 0 0 0 0 0 0.298039 0 0 0 0 0 1 0" type="matrix" result="matrixOut" in="offOut"/><feGaussianBlur stdDeviation="5" result="blurOut" in="matrixOut"/><feBlend mode="normal" in2="blurOut" in="SourceGraphic"/></filter><g style="cursor: pointer;" onclick="ewd.reset()"><rect width="100.0" x="0.0" height="100.0" y="0.0" class="button-tray"/><path fill="#666666" d="M1536 1280v-448q0 -26 -19 -45t-45 -19h-448q-42 0 -59 40q-17 39 14 69l138 138q-148 137 -349 137q-104 0 -198.5 -40.5t-163.5 -109.5t-109.5 -163.5t-40.5 -198.5t40.5 -198.5t109.5 -163.5t163.5 -109.5t198.5 -40.5q169 0 304 99.5t185 261.5q7 23 30 23h199 q16 0 25 -12q10 -13 7 -27q-39 -175 -147.5 -312t-266 -213t-336.5 -76q-156 0 -298 61t-245 164t-164 245t-61 298t61 298t164 245t245 164t298 61q147 0 284.5 -55.5t244.5 -156.5l130 129q29 31 70 14q39 -17 39 -59z" onmouseout="evt.target.setAttribute(&apos;fill&apos;, &apos;#666666&apos;);" class="" onmouseover="evt.target.setAttribute(&apos;fill&apos;, &apos;#000000&apos;);" transform="translate(83, 76) scale(0.04) rotate(-180)"/></g><rect width="100.0" x="0.0" height="200.0" y="133.0" class="button-tray"/><g style="cursor: pointer;" onclick="ewd.zoom(1.2)"><rect width="100.0" x="0.0" height="100.0" y="133.0" class="button"/><path fill="#666666" d="M25 180 h20 v-20 h10 v20 h20 v10 h-20 v20 h-10 v-20 h-20Z" onmouseout="evt.target.setAttribute(&apos;fill&apos;, &apos;#666666&apos;);" class="" onmouseover="evt.target.setAttribute(&apos;fill&apos;, &apos;#000000&apos;);"/></g><g style="cursor: pointer;" onclick="ewd.zoom(0.8)"><rect width="100.0" x="0.0" height="100.0" y="233.0" class="button"/><path fill="#666666" d="M25 280 h50 v10 h-50Z" onmouseout="evt.target.setAttribute(&apos;fill&apos;, &apos;#666666&apos;);" class="" onmouseover="evt.target.setAttribute(&apos;fill&apos;, &apos;#000000&apos;);"/></g><line y2="233.0" x1="15.0" x2="85.0" class="separator" y1="233.0"/></g></g><style type="text/css">    .button-tray{ stroke: #EEEEEE; fill: #FFFFFF; filter:url(#dropshadow); }
+    .button{ stroke: none; fill: #FFFFFF; }
+    .separator{ stroke: #DCDCDC; stroke-width: 3; }
+    .drag-box{ pointer-events: fill; fill: none; stroke: none; }
+    .highlight{ fill: #FFFF00; stroke: none; }
+    .headerText{ display: none; fill: #000000; font-family: sans-serif }
+    #EDS_CCT_PARTNUM{display: none;}
+    #EDS_CCT_BOTTOM_RIGHT_MARKER{display: none;}
+    @media print {#navigation {display: none;} #EDS_CCT_PARTNUM,.headerText{display: inline;}}
+</style><script type="text/javascript"><![CDATA[var originalScale, originalDx, originalDy, draggableElement = document.getElementById('dragbox'), iewdSvg = document
+                .getElementById('iewd-svg'), pointers = [];
+
+if (window.navigator.msPointerEnabled) {
+    // Specifies whether and how a given region can be manipulated by the user (for instance, by panning or zooming).
+    iewdSvg.style.touchAction = "none";
+
+    var msGesture = new MSGesture();
+    msGesture.target = iewdSvg;
+
+    draggableElement.addEventListener("pointerdown", msPointerDown, false);
+    draggableElement.addEventListener("pointerup", msPointerUp, false);
+    iewdSvg.addEventListener("MSGestureChange", msGestureChange, false);
+}
+
+// Prevent touch events triggering on the EWD itself.
+iewdSvg.addEventListener('touchmove', function(e) {
+    e.preventDefault();
+}, false);
+
+// Configure reactions to touch events on the dragbox.
+draggableElement.addEventListener('touchstart', startTouch, false);
+draggableElement.addEventListener('touchmove', moveEvent, false);
+draggableElement.addEventListener('gesturestart', gestureStart, false);
+draggableElement.addEventListener('gesturechange', gestureChange, false);
+
+// When the pointer has lifted from the device, clear all current pointers.
+function msPointerUp(e) {
+    pointers = [];
+}
+
+// Triggered when there is physical contact with the device.
+// Separate events are fired for each touch point. We keep track of these in the pointers array to determine how many touches
+// have occurred. After the pointer has lifted, we clear the pointers array.
+function msPointerDown(e) {
+    if (e.preventManipulation) {
+            e.preventManipulation();
+    }
+
+    pointers.push([e.clientX, e.clientY]);
+
+    if (pointers.length == 1) {
+        ewd.updateClientCoords(pointers[0], pointers[1]);
+    } else if (pointers.length == 2) {
+        ewd.updateClientCoords((pointers[0][0] + pointers[1][0]) / 2,
+                        (pointers[0][1] + pointers[1][1]) / 2);
+    }
+
+    if (e.type == "pointerdown") {
+        msGesture.addPointer(e.pointerId);
+        return;
+    }
+}
+
+// Triggered when the finger positions associated with the interaction moves on the screen.
+// It will also be triggered during inertia processing.
+function msGestureChange(e) {
+    if (e.scale !== 0) {
+        setOriginalMeasurements();
+        ewd.pinchZoom(originalScale, originalDx, originalDy, e.scale);
+    }
+}
+
+// When the user touches the EWD, record their coordinates.
+function startTouch(e) {
+    e.preventDefault();
+    if (e.touches.length == 1) {
+        ewd.updateClientCoords(e.changedTouches[0].clientX, e.changedTouches[0].clientY);
+    }
+    if (e.touches.length == 2) {
+        ewd.updateClientCoords((e.changedTouches[0].clientX + e.changedTouches[1].clientX) / 2,
+                        (e.changedTouches[0].clientY + e.changedTouches[1].clientY) / 2);
+    }
+}
+
+// If the user is dragging using one finger, move the element using the touch event.
+function moveEvent(e) {
+    e.preventDefault();
+
+    if (e.touches.length == 1) {
+        ewd.moveElement(e.changedTouches[0]);
+    }
+}
+
+// Record the existing scale and x and y shifts before the user starts to pinch.
+function gestureStart(e) {
+    e.preventDefault();
+    setOriginalMeasurements();
+}
+
+// If the user is pinching using two fingers, adjust the zoom accordingly.
+function gestureChange(e) {
+    ewd.pinchZoom(originalScale, originalDx, originalDy, e.scale);
+}
+
+function setOriginalMeasurements() {
+    var transformAttribute = document.getElementById("ewdmatrix").getAttributeNS(null, "transform");
+    if (transformAttribute !== '') {
+        originalScale = transformAttribute.split(" ")[0].split("(")[1];
+        originalDx = transformAttribute.split(" ")[4];
+        originalDy = transformAttribute.split(" ")[5].split(")")[0];
+    }
+}
+]]></script></svg>
